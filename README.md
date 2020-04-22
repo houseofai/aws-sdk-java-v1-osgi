@@ -1,4 +1,4 @@
-# AWS SDK for Java 1.0 - OSGI version
+# AWS SDK v1 for Java - OSGI version
 
 The **AWS SDK for Java 1.0 - OSGI version** is a version of the popular Amazon Web Service SDK for Java (v1) turned into OSGI.
 It uses the [AWS Bundles project](https://github.com/aws/aws-sdk-java/tree/master/aws-java-sdk-bundle) to shade all AWS projects into one, and include a custom MANIFEST file.
