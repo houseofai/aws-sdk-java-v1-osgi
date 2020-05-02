@@ -2163,10 +2163,10 @@ Export-Package: com.amazonaws;uses:="com.amazonaws.auth,com.amazonaws.
  sion="1.11.774",com.amazonaws.waiters;uses:="com.amazonaws,com.faster
  xml.jackson.databind";version="1.11.774"
 Bundle-RequiredExecutionEnvironment: JavaSE-1.8
-Automatic-Module-Name: aws-sdk-v2-osgi
+Automatic-Module-Name: aws-sdk-v1-osgi
 Import-Package: javax.crypto,javax.crypto.spec,javax.lang.model.element,
  javax.naming,javax.net,javax.net.ssl,javax.servlet.http,javax.xml.names
  pace,javax.xml.parsers,javax.xml.stream,javax.xml.stream.events,javax.x
  ml.transform,javax.xml.transform.dom,javax.xml.transform.stream,javax.x
- ml.xpath
-
+ ml.xpath,javax.management,javax.xml.bind,javax.security.auth.x500,javax
+ .naming.ldap,javax.naming.directory

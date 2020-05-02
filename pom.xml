@@ -6,8 +6,8 @@
 	</properties>
 
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>software.amazon.awssdk</groupId>
-	<artifactId>aws-sdk-java-v1-osgi</artifactId>
+	<groupId>com.amazonaws</groupId>
+	<artifactId>aws-java-sdk-v1-osgi</artifactId>
 	<version>${aws.version}</version>
 	<build>
 		<plugins>
