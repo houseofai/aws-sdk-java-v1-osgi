@@ -9,7 +9,7 @@ Before building the project, you might want to get the latest AWS package versio
 
 Once you got the AWS SDK version, update the pom.xml with that version:
 
-`<aws.version>1.11.766</aws.version>`
+`<aws.version>1.12.419-SNAPSHOT</aws.version>`
 
 Then you are all set!
 
@@ -26,7 +26,7 @@ The build generates a JAR of 205 MB.
 
 Get the jar from the repo and deploy it to your OSGI environment.
 
-`.m2/repository/software/amazon/awssdk/aws-sdk-java-v1-osgi/1.11.766/aws-sdk-java-v1-osgi-1.11.766.jar`
+`.m2/repository/software/amazon/awssdk/aws-sdk-java-v1-osgi/1.12.419-SNAPSHOT/aws-sdk-java-v1-osgi-1.12.419-SNAPSHOT.jar`
 
 ### Note
 
